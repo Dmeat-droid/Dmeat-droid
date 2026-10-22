@@ -12,12 +12,18 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying **Informatics** at **Institut Teknologi Sepuluh Nopember (ITS)**
-- 🏎️ Developing low-voltage embedded hardware for the **Anargya ITS Electric Vehicle Team**
-- 🛠️ Building full-stack web applications, n8n workflow automations, and Linux/container solutions
-- 🎥 Media & Videography enthusiast (Sony FX30 / DaVinci Resolve)
+🎓 Studying **Informatics** at **Institut Teknologi Sepuluh Nopember (ITS)**
+🏎️ Developing low-voltage embedded hardware for the **Anargya ITS Electric Vehicle Team**
+🛠️ Building full-stack web applications, n8n workflow automations, and Linux/container solutions
+🎥 Media & Videography enthusiast (Sony FX30 / DaVinci Resolve)
 
 </div>
+
+---
+
+### 📈 GitHub Dynamic Metrics
+
+![Metrics](https://github.com/Dmeat-droid/Dmeat-droid/blob/main/github-metrics.svg)
 
 ---
 
@@ -43,12 +49,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Darwisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmeat-droid&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmeat-droid&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
